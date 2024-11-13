@@ -1,4 +1,4 @@
-#Bangalore House Price Prediction (2021 Data)
+# Bangalore House Price Prediction (2021 Data).
 This project uses machine learning models to predict house prices in Bangalore based on a dataset from 2021. The models implemented include:
 
 Linear Regression
